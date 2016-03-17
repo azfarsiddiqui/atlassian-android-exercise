@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Atlassian Exercise</string>
+    <string name="prompt_enter_message">Please enter your message</string>
+    <string name="enter_message">Enter message...</string>
+    <string name="convert">Convert</string>
+    <string name="json">JSON:</string>
+</resources>
